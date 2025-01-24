@@ -14,7 +14,5 @@ This project is a Fullstack Development application that enables efficient data 
 
 - RESTful API: Well-structured API endpoints for smooth interaction between frontend and backend.
 
-- Error Handling: Comprehensive error handling for improved reliability.
 
-- Database Operations: Optimized MySQL queries for efficient data handling.
 
